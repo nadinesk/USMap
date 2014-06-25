@@ -1,4 +1,4 @@
-module Colors where
+module AutoLevels where
 import Statistics.Distribution.Normal
 import Statistics.Distribution
 import Statistics.Types
