@@ -10,7 +10,8 @@ Description
 Installation
 ------------
 First install the [Haskell Platform](http://www.haskell.org/platform/) and then run
-`cabal install diagrams`
+`cabal sandbox init`
+`cabal install`
 
 Usage
 ------
@@ -22,3 +23,6 @@ An svg will be generated.
 
 Example
 -------
+This example shows unemployment data by month beginning in 2003. 
+
+![Example](http://mapgen.files.wordpress.com/2013/11/untitled-51.gif?w=1008)
